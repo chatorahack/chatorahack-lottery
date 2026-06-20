@@ -4,12 +4,6 @@
 
 https://lottery.chatorahack.com
 
-## Tech Stack
-
-- React / React Router v6
-- Tailwind CSS v3 / shadcn/ui / Framer Motion
-- Supabase
-
 ## License
 
-GNU GPL v3
+Copyright (c) 2026 All Rights Reserved.

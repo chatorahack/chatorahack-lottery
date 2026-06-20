@@ -217,6 +217,10 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Playwrightのテスト実行時に
+playwright-report/
+test-results/
+
 .env.local
 .env.production
 .env*
